@@ -1,0 +1,37 @@
+最常用快捷键
+Ctrl+Shift+U 大小写转换
+Ctrl+Shift+Insert   可以选择剪贴板内容并插入
+Ctrl+Shift+Backspace  可以跳转到上次编辑的地方
+Ctrl+Shift+N   可以快速打开文件
+Ctrl+Shift+Z 取消撤销
+Ctrl+Alt+V    引入变量。例如把括号内的SQL赋成一个变量
+Ctrl+Alt+T   把代码包在一块内，例如try-catch
+Ctrl+Alt+Space   类名提示
+Ctrl+Alt+L   格式化代码
+Ctrl+Alt+O  优化导入的类和包
+Ctrl+E     显示最近编辑的文件列表
+Ctrl+F12   显示当前文件的结构
+Ctrl+P	 显示参数信息
+Ctrl+Y   删除整行
+Ctrl+O   重写父类的方法
+Ctrl+I   重写接口的方法
+Ctrl+D   复制当前行
+Ctrl+H   查看类的继承体系
+Ctrl+R   替换当前文本内容
+Ctrl+N   可以快速打开类
+
+Alt+F7 查看被所有引用到的地方
+Alt+Q   看到当前方法的声明
+Alt+F1   将正在编辑的元素在各个面板中定位
+Alt+Insert   生成构造器/Getter/Setter等
+Alt+Up and Alt+Down   方法间快速移动
+Alt+shift+Up and Alt+shift+Down   上下移动当前行
+
+Shift double 快速查找类/文件
+Shift+单击 可以关闭文件
+
+sout 输出语句
+soutm 输出类名+方法名
+psvm 输出main方法
+fori 输出for语句
+iter 输出foreach语句
